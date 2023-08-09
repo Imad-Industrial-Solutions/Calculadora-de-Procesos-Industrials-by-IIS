@@ -1,2 +1,3 @@
 # Calculadora-de-Procesos-Industrials-by-IIS
 Una de les nostres solucions industrials més simples i effectives amb aquest programa creat en python podreu simular la quantitat de línees de produció que teniu a la vostra industria i calcular varies dades com ho són el Takt time,Lead Tim, Wip , Coll de botella ...
+![I I S PROCESES CALCULATOR LOGO](https://github.com/Imad-Industrial-Solutions/Calculadora-de-Procesos-Industrials-by-IIS/assets/141873750/131a202d-0cda-48a1-84a8-52acbd91cdd9)
